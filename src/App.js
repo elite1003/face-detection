@@ -25,7 +25,7 @@ const particlesOptions = {
 };
 
 class App extends Component {
-    this.state = {
+    state = {
       input: "",
       imageUrl: "",
       box: {},
